@@ -163,4 +163,4 @@ cython_debug/
 02-experiment-tracking/hw/artifacts/*
 02-experiment-tracking/hw/backend.db
 
-*.parquet
+**.parquet
